@@ -1,1 +1,2 @@
 # PCR_Primer_Design
+This script is used for primer designing when target sequences are given. The product size could be set. The unqiue and qualified primer sequecne will be designed. Details can be seen in Help!
